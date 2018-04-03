@@ -7,7 +7,7 @@ __author__ = "et1m"
 #python-requests
 #python-bs4
 #python-sys
-
+#site so ta me deiando fazer 10 requisicoes
 import requests
 from bs4 import BeautifulSoup
 import sys
